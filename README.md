@@ -27,7 +27,7 @@ THIS APPLICATION IS BEING DEVELOPED IN ORDER TO FACILITATE THE SCHEDULE OF DAILY
 
 ## ✒️ Authors:
 
-* **Lucas Silva** Project Developer - (https://github.com/guilucasv)
+* **Lucas Silva**(https://github.com/guilucasv) Project Developer -
 * * **Allan Cruz** Project Developer -
 
 ---
