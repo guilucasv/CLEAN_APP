@@ -1,2 +1,42 @@
-# ccleaner
- Aplication for cleaning services
+# Aplicação Agendamento de Visitas de Faxinas [PT-BR]
+# Application Scheduling Cleaning Visits [EN]
+
+
+## 🚀 Começando
+## 🚀 STARTING
+
+-- SOBRE:
+
+ESTA APLICAÇÃO ESTÁ SENDO DESENVOLVIDA COM O INTUITO DE FACILITAR O AGENDAMENTO DE VISISTAS DA DIARISTAS EM UMA EMPRESA DE FAXINAS. O PREENCHIMENTO COM UMA APLICAÇÃO TORNARÁ O SERVIÇO MAIS RÁPIDO E O ATENDIMENTO AO CLIENTE AINDA MAIS EFICIENTE E ÁGIL.
+
+
+-- ABOUT:
+
+THIS APPLICATION IS BEING DEVELOPED IN ORDER TO FACILITATE THE SCHEDULE OF DAILY VISITS IN A CLEANING COMPANY. FILLING OUT AN APPLICATION WILL MAKE SERVICE FASTER AND CUSTOMER SERVICE EVEN MORE EFFICIENT AND FAST.
+
+## ESTA APLICAÇÃO ESTÁ EM DESENVOLVIMENTO:
+
+-- ETAPA ATUAL: DEFINIÇÃO DE ESCOPO E ALINHAMENTO COM O CLIENTE DOS REQUISITOS NECESSÁRIOS.
+
+
+## 🛠️ Construído com
+
+- APARTIR DA PRIMEIRA REUNIÃO COM O CLIENTE SERÃO DEFINIDAS AS LINGUAGUENS E FERRAMENTAS QUE SERÃO UTILIZADAS NA CRIAÇAO DO PROJETO. PARA INICIAR E TER UMA BASE DE IDÉIAIS A PÁGINA INICIAL QUE ESTÁ PRINTADA FOI DESENVOLVIDA COM AS TECNOLOGIAS:
+
+* [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+* [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+* [JAVASCRIPT](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+
+
+## 📌 Versão
+
+AINDA NÃO FOI INICIADA A CRIAÇÃO DA APLICAÇÃO
+
+## ✒️ Autores
+
+* **Lucas Silva** *Desenvolvedor do Projeto* - (https://github.com/guilucasv)
+* * **Allan Cruz** *Desenvolvedor do Projeto* -
+
+---
+
+⌨️ com ❤️ por [Lucas Silva](https://github.com/guilucasv) && [Allan Cruz]😊
