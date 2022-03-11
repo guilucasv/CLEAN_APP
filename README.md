@@ -2,7 +2,7 @@
 # Application Scheduling Cleaning Visits [EN]
 
 
-## 🚀 Começando
+# 🚀 Começando
 ## 🚀 STARTING
 
 -- SOBRE:
@@ -14,29 +14,37 @@ ESTA APLICAÇÃO ESTÁ SENDO DESENVOLVIDA COM O INTUITO DE FACILITAR O AGENDAMEN
 
 THIS APPLICATION IS BEING DEVELOPED IN ORDER TO FACILITATE THE SCHEDULE OF DAILY VISITS IN A CLEANING COMPANY. FILLING OUT AN APPLICATION WILL MAKE SERVICE FASTER AND CUSTOMER SERVICE EVEN MORE EFFICIENT AND FAST.
 
-## ESTA APLICAÇÃO ESTÁ EM DESENVOLVIMENTO:
+# ESTA APLICAÇÃO ESTÁ EM DESENVOLVIMENTO
+## THIS APPLICATION IS UNDER DEVELOPMENT:
 
 -- ETAPA ATUAL: DEFINIÇÃO DE ESCOPO E ALINHAMENTO COM O CLIENTE DOS REQUISITOS NECESSÁRIOS.
+-- CURRENT STAGE: SCOPE AND ALIGNMENT WITH CUSTOMER REQUIREMENTS.
 
-
-## 🛠️ Construído com
+# 🛠️ Construído com:
+## 🛠️ Built with:
 
 - APARTIR DA PRIMEIRA REUNIÃO COM O CLIENTE SERÃO DEFINIDAS AS LINGUAGUENS E FERRAMENTAS QUE SERÃO UTILIZADAS NA CRIAÇAO DO PROJETO. PARA INICIAR E TER UMA BASE DE IDÉIAIS A PÁGINA INICIAL QUE ESTÁ PRINTADA FOI DESENVOLVIDA COM AS TECNOLOGIAS:
+
+
+- FROM THE FIRST MEETING WITH THE CUSTOMER, THE LANGUAGES AND TOOLS THAT WILL BE USED IN THE PROJECT CREATION WILL BE DEFINED. TO START AND HAVE A BASE OF IDEAS THE HOMEPAGE THAT IS PRINTED WAS DEVELOPED WITH THE TECHNOLOGIES:
 
 * [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 * [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 * [JAVASCRIPT](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 
-## 📌 Versão
+# 📌 Versão
+## 📌 Version:
 
-AINDA NÃO FOI INICIADA A CRIAÇÃO DA APLICAÇÃO
+- AINDA NÃO FOI INICIADA A CRIAÇÃO DA APLICAÇÃO
+- APPLICATION CREATION HAS NOT BEEN STARTED YET
 
-## ✒️ Autores
+# ✒️ Autores
+## ✒️ Authors:
 
 * **Lucas Silva** *Desenvolvedor do Projeto* - (https://github.com/guilucasv)
 * * **Allan Cruz** *Desenvolvedor do Projeto* -
 
 ---
 
-⌨️ com ❤️ por [Lucas Silva](https://github.com/guilucasv) && [Allan Cruz]😊
+⌨️ with ❤️ by [Lucas Silva](https://github.com/guilucasv) and [Allan Cruz]😊
